@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "x": 400,
+    "y": 400
+  },
+  "servers": [
+    {
+      "ip": "amp.stroskler.xyz",
+      "port": 25565,
+      "name": "Stroskler"
+    },
+    {
+      "ip": "134.255.208.46",
+      "port": 52000,
+      "name": "EZ_mode"
+    }
+  ]
+}
